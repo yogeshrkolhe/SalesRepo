@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("This is test.java");
 		
 		System.out.println("This is the second line in test.java");
+		
+		System.out.println("This is the third line in test.java");
 	}
 
 }
