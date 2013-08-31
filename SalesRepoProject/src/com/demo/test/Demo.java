@@ -12,6 +12,8 @@ public class Demo {
 		System.out.println("Code modified by YRK");
 		
 		System.out.println("COde modified by VK");
+		
+		System.out.println("Checking merge and conflict by VK");
 	}
 
 }
