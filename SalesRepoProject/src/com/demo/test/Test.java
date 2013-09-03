@@ -9,7 +9,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("This is test.java");
 
-		System.out.println("This is the second line in test.java  ");
+		System.out.println("This is the second line in test.java added by Vishal");
 
 		System.out.println("This is the third line in test.java");
 
@@ -19,6 +19,8 @@ public class Test {
 
 		System.out.println("Thi is a line added by vishal.");
 
+		
+		System.out.println(" this is round 2 of merge.");
 	}
 
 }
